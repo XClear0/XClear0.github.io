@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Blog</title>
+    <link>http://xclear.me/categories/</link>
+    <description>Recent content in Categories on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 24 Jan 2022 23:06:32 +0800</lastBuildDate><atom:link href="http://xclear.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>category</title>
+      <link>http://xclear.me/categories/category/</link>
+      <pubDate>Mon, 24 Jan 2022 23:06:32 +0800</pubDate>
+      
+      <guid>http://xclear.me/categories/category/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>subcategory</title>
+      <link>http://xclear.me/categories/subcategory/</link>
+      <pubDate>Mon, 24 Jan 2022 23:06:32 +0800</pubDate>
+      
+      <guid>http://xclear.me/categories/subcategory/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
